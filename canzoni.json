@@ -262,5 +262,25 @@
   {
     "titolo": "Chill Future Bass",
     "url": "https://cdn.pixabay.com/audio/2022/01/20/audio_55cbb10a3e.mp3"
+  },
+  {
+    "titolo": "Luther - Kendrick Lamar & SZA",
+    "url": "https://www.youtube.com/watch?v=exampleLuther" 
+  },
+  {
+    "titolo": "Apt. - ROSÉ & Bruno Mars",
+    "url": "https://www.youtube.com/watch?v=exampleApt"
+  },
+  {
+    "titolo": "Sapphire - Ed Sheeran feat. Arijit Singh",
+    "url": "https://www.youtube.com/watch?v=exampleSapphire"
+  },
+  {
+    "titolo": "Die With A Smile - Lady Gaga & Bruno Mars",
+    "url": "https://www.youtube.com/watch?v=exampleDieWithASmile"
+  },
+  {
+    "titolo": "Blessings - Calvin Harris ft. Clementine Douglas",
+    "url": "https://www.youtube.com/watch?v=exampleBlessings"
   }
 ]
